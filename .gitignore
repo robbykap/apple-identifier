@@ -1,2 +1,7 @@
 fruits_dataset
 apple_dataset
+idea/
+.vscode/
+*.h5
+*.keras
+.idea/
