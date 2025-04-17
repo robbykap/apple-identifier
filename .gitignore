@@ -5,3 +5,4 @@ idea/
 *.h5
 *.keras
 .idea/
+*.json
