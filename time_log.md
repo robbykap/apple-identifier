@@ -1,26 +1,25 @@
 | **Date**         | **Time Spent** | **Catagory** | **Task Description**                                                                                                                                       |
 |------------------|----------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2025-03-22 13:36 | 2.0 hours      | N/A          | Created GitHub repo and initialized README                                                                                                                 |
-| 2025-03-24 14:00 | 2.0 hours      | Prep Work    | Set up local project structure, organized datasets into train/test/validation folders, and configured .gitignore and environment files for reproducibility |
-| 2025-03-23 18:18 | 0.5 hours      | Prep Work    | Worked on installing kaggle dataset                                                                                                                        |
-| 2025-03-23 18:48 | 1.5 hours      | Prep Work    | Going through dataset, seeing what will be useful, what I may want to inlucde later, etc.                                                                  |
-| 2025-03-23 21:18 | 1.0 hour       | Prep Work    | Renaming labels, removeing certain peices of data                                                                                                          |
+| 2025-03-23 10:00 | 0.5 hours      | Prep Work    | Worked on installing kaggle dataset                                                                                                                        |
+| 2025-03-23 10:30 | 1.5 hours      | Prep Work    | Going through dataset, seeing what will be useful, what I may want to include later, etc.                                                                  |
+| 2025-03-23 12:00 | 1.0 hour       | Prep Work    | Renaming labels, removing certain pieces of data                                                                                                           |
 | 2025-03-24 10:00 | 1.5 hours      | Research     | Researched CNNs and transfer learning architectures                                                                                                        |
+| 2025-03-24 14:00 | 2.0 hours      | Prep Work    | Set up local project structure, organized datasets into train/test/validation folders, and configured .gitignore and environment files for reproducibility |
 | 2025-03-25 11:30 | 1.0 hour       | Research     | Read about MobileNetV2, ResNet, and EfficientNetB0                                                                                                         |
 | 2025-03-26 15:00 | 0.5 hours      | Research     | Reviewed model performance metrics and common pitfalls                                                                                                     |
 | 2025-03-27 12:00 | 1.0 hour       | Research     | Watched videos on image classification best practices                                                                                                      |
 | 2025-03-28 10:00 | 1.0 hour       | Research     | Reviewed Apple dataset image examples and CNN tutorials                                                                                                    |
-| 2025-04-18 10:00 | 2.0 hours      | ML Modeling  | Built and tested initial CNN architecture                                                                                                                  |
-| 2025-04-17 12:00 | 2.0 hours      | ML Modeling  | Integrated MobileNetV2, tuned dense layers and dropout                                                                                                     |
-| 2025-04-16 14:00 | 2.5 hours      | ML Modeling  | Resized dataset and trained EfficientNet and ResNet                                                                                                        |
-| 2025-04-18 16:00 | 2.0 hours      | ML Modeling  | Added data augmentation and regularization improvements                                                                                                    |
-| 2025-04-17 10:00 | 1.5 hours      | ML Modeling  | Debugged input shapes and label preprocessing issues                                                                                                       |
-| 2025-04-16 12:00 | 2.0 hours      | ML Modeling  | Built ensemble prediction logic and tested outputs                                                                                                         |
-| 2025-04-18 14:00 | 1.5 hours      | ML Modeling  | Analyzed validation accuracy and plotted training loss                                                                                                     |
-| 2025-04-17 16:00 | 2.5 hours      | ML Modeling  | Fine-tuned MobileNetV2 and EfficientNet, adjusted LR                                                                                                       |
 | 2025-04-16 10:00 | 2.0 hours      | ML Modeling  | Tested final models and wrote performance analysis                                                                                                         |
+| 2025-04-16 12:00 | 2.0 hours      | ML Modeling  | Built ensemble prediction logic and tested outputs                                                                                                         |
+| 2025-04-16 14:00 | 2.5 hours      | ML Modeling  | Resized dataset and worked on the EfficientNet and ResNet                                                                                                  |
+| 2025-04-17 10:00 | 1.5 hours      | ML Modeling  | Debugged input shapes and label preprocessing issues                                                                                                       |
+| 2025-04-17 12:00 | 2.0 hours      | ML Modeling  | Integrated MobileNetV2, tuned dense layers and dropout                                                                                                     |
+| 2025-04-17 16:00 | 2.5 hours      | ML Modeling  | Fine-tuned MobileNetV2 and EfficientNet, adjusted LR                                                                                                       |
+| 2025-04-18 10:00 | 2.0 hours      | ML Modeling  | Built and tested initial CNN architecture                                                                                                                  |
 | 2025-04-18 12:00 | 1.0 hour       | ML Modeling  | Created final prediction pipeline and top-k display                                                                                                        |
-| 2025-04-20 12:02 | 1.0 hour       | ML Modeling  | Reanalyzed models and wrote up a results and conclusion for the predicatablity and results of my models                                                    |
-
+| 2025-04-18 14:00 | 1.5 hours      | ML Modeling  | Analyzed validation accuracy and plotted training loss                                                                                                     |
+| 2025-04-18 16:00 | 2.0 hours      | ML Modeling  | Added data augmentation and regularization improvements                                                                                                    |
+| 2025-04-20 12:02 | 1.0 hour       | ML Modeling  | Reanalyzed models and wrote up a results and conclusion for the predictability and results of my models                                                    |
 
 **Total time:** 32 hours
